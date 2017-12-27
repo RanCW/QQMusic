@@ -1,0 +1,14 @@
+@charset "utf-8";
+@import "variable.scss";
+body{
+  background: $theme-body;
+}
+.pull-left{
+  float: left;
+}
+.pull-right{
+  float: right;
+}
+.text-center{
+  text-align: center;
+}
